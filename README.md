@@ -1,6 +1,8 @@
 # Trivia REST API
 
-A **Dockerized REST API** built using **Go Fiber**, **PostgreSQL**, and **Docker** for managing trivia questions and answers. This project includes a reliable and scalable architecture using Go Fiber, manages structured data with PostgreSQL, and is deployed in a containerized environment using Docker
+A **Dockerized REST API** built using **Go Fiber**, **PostgreSQL**, and **Docker** for managing trivia questions and answers. This project includes a reliable and scalable architecture using Go Fiber, manages structured data with PostgreSQL, and is deployed in a containerized environment using Docker.
+
+![thumbnail](https://github.com/tunde262/trivia_rest_api_docker_postgres_go/blob/main/assets/thumbnail.png?raw=true)
 
 ## Project Goal
 
