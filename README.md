@@ -8,8 +8,6 @@ A **Dockerized REST API** built using **Go Fiber**, **PostgreSQL**, and **Docker
 
 The goal of this project was to implement a scalable and containerized **REST API Solution** with a structured database schema. The API solves a real-world problem by efficiently managing trivia question and answer data.
 
---
-
 ## Features
 
 - **Go Fiber Framework**: High-performance web framework for building RESTful APIs.
