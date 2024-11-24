@@ -51,7 +51,7 @@ The goal of this project was to implement a scalable and containerized **REST AP
    ```bash
    docker-compose up --build
 
-4. **Access the API:y**:
+4. **Access the API:**:
    
 - The API will run on `http://localhost:3000`.
 - Use tools like Postman or `curl` to interact with the endpoints.
